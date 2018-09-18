@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "react": "16.5.0",
-    "react-native": "0.57.0"
+    "react-native": "0.57.0",
+    "react-viro": "2.10.0"
   },
   "devDependencies": {
     "@types/react": "^16.4.14",
